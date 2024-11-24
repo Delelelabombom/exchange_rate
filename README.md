@@ -1,6 +1,17 @@
 # exchange_rate
 
-A new Flutter project.
+A Flutter-based application that provides real-time currency exchange rates. This app uses the Open Exchange Rates API to fetch live currency data and converts them to a base currency (HKD by default). It features:
+
+* **Real-time Updates:** Fetches and displays current exchange rates.
+* **Customizable Base Currency:** Recalculates rates relative to the chosen currency.
+* **Error Handling:** Clear error messages for network issues or invalid API responses.
+* **Cross-Platform:** Supports Android, iOS, and desktop platforms with Flutter's multi-platform support.
+
+ **Technologies Used** :
+
+* Flutter (Dart)
+* Open Exchange Rates API
+* Gradle for Android builds
 
 ## Getting Started
 
